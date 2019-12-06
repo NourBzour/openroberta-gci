@@ -1,4 +1,4 @@
-## Quality Assurance
+### Quality Assurance
 
 Some of these tasks require you to test specific functionalities and find bugs.
 Usually, you should be somewhat familiar with the lab already, then you can try out weird combinations of blocks, wacky values and mess all over the place.
