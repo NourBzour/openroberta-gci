@@ -1,4 +1,4 @@
-## OpenRoberta Google Code-In
+### OpenRoberta Google Code-In
 
 Welcome to our GCI page!
 
