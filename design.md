@@ -1,4 +1,4 @@
-## Design
+### Design
 
 Make sure to follow these general guidelines:
 
@@ -14,23 +14,23 @@ Make sure to follow these general guidelines:
 
 ### Images
 
-#### Open Roberta Logo
+### Open Roberta Logo
 
 ![Open Roberta Logo 4C](assets/img/design/Logo_OpenRoberta/Logo_Open_Roberta_4C.svg)
 ![Open Roberta Logo pos](assets/img/design/Logo_OpenRoberta/Logo_Open_Roberta_pos.svg)
 
-#### Roberta Initiative Logo
+### Roberta Initiative Logo
 
 ![Roberta Initiative Logo 4C](assets/img/design/Logo_Roberta/Logo_Roberta_Initiative_4C.svg)
 ![Roberta Initiative Logo pos](assets/img/design/Logo_Roberta/Logo_Roberta_Initiative_pos.svg)
 
-#### Roberta
+### Roberta
 
 ![Roberta](assets/img/design/Roberta/Roberta.svg)
 ![Roberta eyes left](assets/img/design/Roberta/Roberta_eyes_left.svg)
 ![Roberta eyes right](assets/img/design/Roberta/Roberta_eyes_right.svg)
 
-#### Sympathizer
+### Sympathizer
 
 ![Roberta_Sympathizer_flying_ears](assets/img/design/Sympathizer/Roberta_Sympathizer_flying_ears.svg)
 ![Roberta_Sympathizer_gaze_left](assets/img/design/Sympathizer/Roberta_Sympathizer_gaze_left.svg)
@@ -39,7 +39,7 @@ Make sure to follow these general guidelines:
 ![Roberta_Sympathizer_normal_ears](assets/img/design/Sympathizer/Roberta_Sympathizer_normal_ears.svg)
 ![Roberta_Sympathizer_winking](assets/img/design/Sympathizer/Roberta_Sympathizer_winking.svg)
 
-#### Friends
+### Friends
 
 ![Felix](assets/img/design/Friends/Felix.svg)
 ![Ferdi](assets/img/design/Friends/Ferdi.svg)
@@ -49,6 +49,6 @@ Make sure to follow these general guidelines:
 ![Frieda](assets/img/design/Friends/Frieda.svg)
 ![Fritzi](assets/img/design/Friends/Fritzi.svg)
 
-#### Font
+### Font
 
 ![Font](assets/img/design/Font/Font_Vectors.svg)
